@@ -34,14 +34,14 @@ Whether you're a beginner exploring Docker or a seasoned developer, this script 
 
 ## 🚀 Installation
 
-1. **Clone the repository**:
+ **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/docker-shell.git
    cd docker-shell
    cd bin
    chmod +x docker-shell.sh
    ./docker-shell.sh
-
+```
 
 ---
 ## 📁 Folder Structure
