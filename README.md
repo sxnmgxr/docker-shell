@@ -42,9 +42,9 @@ Whether you're a beginner exploring Docker or a seasoned developer, this script 
    ./docker-shell.sh
 
 ---
-## Folder Structure
+## 📁 Folder Structure
 **docker-shell Folder Structure**:
 ```bash
-|--- bin                 # Contain the main Bash script
-|---  lib                 # Component of the Bash script
+|---  bin                  # Contain the main Bash script
+|---  lib                  # Component of the Bash script
 |---  README.md            # Project documentation
