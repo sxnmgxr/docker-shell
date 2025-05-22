@@ -41,7 +41,9 @@ Whether you're a beginner exploring Docker or a seasoned developer, this script 
    chmod +x docker-shell.sh
    ./docker-shell.sh
 
-## docker-shell/
+---
+## Folder Structure
+**docker-shell Folder Structure**:
 |--- bin                 # Contain the main Bash script
 |---  lib                 # Component of the Bash script
 |---  README.md            # Project documentation
