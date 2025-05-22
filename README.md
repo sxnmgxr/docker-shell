@@ -31,6 +31,7 @@ Whether you're a beginner exploring Docker or a seasoned developer, this script 
 
 ---
 
+
 ## 🚀 Installation
 
 1. **Clone the repository**:
@@ -41,16 +42,21 @@ Whether you're a beginner exploring Docker or a seasoned developer, this script 
    chmod +x docker-shell.sh
    ./docker-shell.sh
 
+
 ---
 ## 📁 Folder Structure
+
 **docker-shell Folder Structure**:
 ```bash
 |---  bin                  # Contain the main Bash script
 |---  lib                  # Component of the Bash script
 |---  README.md            # Project documentation
+```
 
 ---
 
-##🚧 Future Plans
-**Docker Hub Login & Push/Pull**:
+## 🚧 Future Plans
+1**Docker Hub Login & Push/Pull**:
 Soon, the script will support Docker Hub authentication to allow you to easily log in, push images to your Docker Hub repositories, and pull images directly from the CLI.
+
+
